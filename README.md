@@ -6,4 +6,4 @@ Veritabanı ile ilgili detayları görmek için https://github.com/mucahiitkahra
 
 Bu Projeye ait Postgre Veritabanı ise;
 
-[alt text](https://ibb.co/F60k22x)
+![posgre](https://i.hizliresim.com/bloteqz.png "veritabanı")
